@@ -44,7 +44,7 @@ Follow these steps to run the project locally:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/diligent-destination.git
+git clone https://github.com/joy1502/diligent-destination.git
 Navigate to the project directory:
 bash
 Copy code
