@@ -39,7 +39,6 @@ Setup 🚀
    ![image](https://github.com/user-attachments/assets/9285ebb7-72c6-40ed-b649-73f00d112b1f)
    ![image](https://github.com/user-attachments/assets/9debcf84-6753-4b94-8271-1ad9be63a252)
    ![image](https://github.com/user-attachments/assets/43d2e3eb-fe34-445c-b892-cb8be088bcf7)
-
 2. Popular Destinations
    ![image](https://github.com/user-attachments/assets/68e92f9c-c51f-4bd3-9c42-dc48c1e14115)
    ![image](https://github.com/user-attachments/assets/4ff49c79-4f39-472a-a8ec-5c6b98803464)
